@@ -1,7 +1,7 @@
 # Titanic
 Author: Mingfei Ma
 
-the types of model(s) you tried: NB, linear regression, knn
+the types of model(s) you tried: NB, knn
 
 your validation results for your model(s):
 	for NB, the accuracy score is 0.6816479400749064
