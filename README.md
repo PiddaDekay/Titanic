@@ -1,5 +1,5 @@
 # Titanic
-Author: Mingfei Ma
+Author: PiddaDekay
 
 the types of model(s) you tried: NB, knn
 
